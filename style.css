@@ -1,0 +1,213 @@
+body {
+    background-color: #fdfdff;
+}
+
+footer {
+    background-color: 
+    #1693B5;
+    padding: 10rem;
+    color: #fdfdff;
+    display: flex;
+    width: 100%;
+    margin: auto;
+    gap: 3rem;
+}
+
+.sunny {
+    display: flex;
+    gap: 3em;
+    
+}
+
+.tick {
+    display: flex;
+    flex-direction: column;
+    row-gap: 2em;
+    margin-bottom: 3rem;
+}
+
+.tacks {
+    display: flex;
+    gap: 3em;
+}
+
+.toe > h3 {
+    font-size: 2rem;
+    margin-top: 4px;
+    
+}
+
+.abed {
+    width: 60%;
+}
+
+.abed > h1 {
+    font-size: 3rem;
+
+}
+
+.abed > p {
+    font-size: 1.5rem;
+}
+
+.mesh > h2 {
+    font-size: 3rem;
+}
+
+.mesh > p {
+    font-size: 1.5rem;
+}
+
+.mesh {
+    margin-bottom: 3rem;
+}
+
+.sat  > img{
+    margin-right: 1100px;
+    width: 80%;
+    height: 1000px;
+}
+
+.content > h1 {
+    color: black;
+    font-size: 3rem;
+}
+
+.tanker {
+    display: grid;
+}
+
+.action {
+    display: flex;
+    gap: 1.3rem;
+    margin-top: 3px;
+}
+
+.comedy {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+
+}
+
+.comedy > h2 {
+    font-size: 2rem;
+    margin-top: 0;
+}
+
+
+.tanker {
+    display: grid;
+    grid-template-columns: repeat(3, 3fr); 
+    grid-template-rows: repeat(2, auto); 
+    gap: 1.5rem; 
+    padding: 1rem; 
+    width: 100%;
+}
+
+.card {
+    background-color: #fdfdff;
+    border: 0.5px solid rgb(22, 147, 181);
+    width: 80%; 
+    border-radius: 5px; 
+    margin-bottom: 80px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);  
+}
+
+.card > img {
+    width: 100%;
+    height: auto;
+    border: 2px solid black;
+}
+
+.cardContent > p {
+    padding: 1rem;
+    font-size: 1.5rem;
+}
+
+.content {
+   margin-bottom: 5rem;
+}
+
+.monitor {
+    display: flex;
+    gap: 2.5rem;
+    justify-content: end;
+}
+
+
+.hero > img{
+    width: 70%;
+    height: 65vh;
+    object-fit: cover;
+    display: block;
+}
+
+.heroContent{
+    position: absolute;
+    top: 60%;
+    left: 32%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+}
+
+.heroContent > h1 {
+  font-size: 5rem;
+}
+
+.header {
+    display: flex;
+    width: 100%;
+    background-color: rgb(22, 147, 181);
+    padding: 5rem;
+    margin-left: 3px;
+    justify-content: center;
+    margin-bottom: 10rem;
+    border-radius: 0 0 1500% 0;
+}
+
+.about {
+    width: 40%;
+    background-color: #fdfdff;
+    padding: 3rem;
+    height: 40vh;
+    margin-left: -322px;
+    margin-top: 100px;
+    border: 2px solid rgb(22, 147, 181);
+}
+
+.thriller > h1 {
+    font-size: 3rem;
+}
+
+.thriller > p {
+    font-size: 1.5rem;
+}
+
+.thriller {
+    margin-bottom: 3rem;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
